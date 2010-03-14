@@ -1,4 +1,3 @@
-<pre>
 A cool background image creator, if you don't want to see a segmentation
 fault you need:
     - fortune-mod
@@ -6,4 +5,3 @@ fault you need:
 The program use 2 libraries:
     - libgd (image manipulation library)
     - libX11 (Xorg server v11 API library)
-</pre>
